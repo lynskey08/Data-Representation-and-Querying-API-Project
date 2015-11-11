@@ -54,3 +54,5 @@ These page's will consist of each libraries information such as the data below:
 > * Opening Hours Friday
 > * Opening Hours Saturday
 > * Opening Hours Sunday
+
+I was also thinking, at the bottom of each page it could have a google maps live image with the latitude and longitude of each library in order to actually put the latitude and longitude to use as it's rarely used by the general user in todays world.
