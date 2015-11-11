@@ -12,3 +12,18 @@ The idea of this app is to make it easy and convenient for users to find a libra
 
 ### About
 I downloaded the dataset from [https://data.gov.ie/dataset/county-galway-libraries](https://data.gov.ie/dataset/county-galway-libraries) in a Comma Seperated Value format(.csv). The file has 30 rows which contain the names of the individual Libraries and 24 columns which contain the information of each Library.I have decided to use 17 of the 24 columns and to leave out the rest of the columns as they don't contain relevent information needed for the app.
+
+###Column Values
+
+These are the 16 column values that I've selected from the 24.
+
+Field | Value | Field | Value
+------|---------|---------|-----------
+**Name** | Library Name (text) | **Longitude** | Library Longitude (number)
+**Address 1** | Library Location text) | **Opening Hours Monday** | Opening hours (number)
+**Address 2** | Library Location (Text) | **Opening Hours Tuesday** | Opening hours (number)
+**Town** | Library Location (text) | **Opening Hours Wednesday** | Opening hours (number)
+**Phone** | Library Number (number) | **Opening Hours Thursday** | Opening hours (number)
+**Email** | Library Email (text) | **Opening Hours Friday** | Opening hours (number)
+**Website** | Library Website (text) | **Opening Hours Saturday** | Opening hours (number)
+**Latitude** | Library Latitude (number) | **Opening Hours Sunday** | Opening hours (number)
