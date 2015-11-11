@@ -30,4 +30,21 @@ Field | Value | Field | Value
 
 ###App Design
 
+> #####Main Page
+
 The App will have a main page with a listing of all the library name's in County Galway. When the user clicks the name of a library, it will link you to the page with all the information of that library.
+
+> ####Single Library Page's Information
+
+These page's will consist of each libraries information such as the data below:
+
+> * Name (text)
+> * Address 1 (text)
+> * Address 2 (text)
+> * Town (text)
+> * Phone (number)
+> *
+> *
+> *
+> *
+
