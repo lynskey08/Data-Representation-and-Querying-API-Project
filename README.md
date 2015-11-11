@@ -34,7 +34,7 @@ Field | Value | Field | Value
 
 The App will have a main page with a listing of all the library name's in County Galway. When the user clicks the name of a library, it will link you to the page with all the information of that library.
 
-> ####Single Library Page's Information
+> #####Single Library Page's Information
 
 These page's will consist of each libraries information such as the data below:
 
@@ -43,6 +43,9 @@ These page's will consist of each libraries information such as the data below:
 > * Address 2 (text)
 > * Town (text)
 > * Phone (number)
+> * Email (text)
+> * Website (text)
+> *
 > *
 > *
 > *
