@@ -28,7 +28,7 @@ Field | Value | Field | Value
 **Website** | Library Website (text) | **Opening Hours Saturday** | Opening hours (number)
 **Latitude** | Library Latitude (number) | **Opening Hours Sunday** | Opening hours (number)
 
-###App Design
+###Api Design
 
 > #####Main Page
 
