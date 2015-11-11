@@ -45,9 +45,12 @@ These page's will consist of each libraries information such as the data below:
 > * Phone (number)
 > * Email (text)
 > * Website (text)
-> *
-> *
-> *
-> *
-> *
-
+> * Latitude (number)
+> * Longitude (number)
+> * Opening Hours Monday
+> * Opening Hours Tuesday
+> * Opening Hours Wednesday
+> * Opening Hours Thursday
+> * Opening Hours Friday
+> * Opening Hours Saturday
+> * Opening Hours Sunday
