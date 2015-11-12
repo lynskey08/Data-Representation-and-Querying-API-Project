@@ -136,7 +136,7 @@ The GET method retrieves data from a web server by specifying parameters in the 
 
 To request a library by name you can use:
 *http://galway.ie/en/Services/Library/(name)
-Where you replace area with the name of a place 
+Where you replace (name) with the name of a place 
 such as (Tuam) like so:
 *http://galway.ie/en/Services/Library/TUAM
 
@@ -203,7 +203,7 @@ After update:
         "Address1": "HIGH STREET",
         "Address2": "null",
         "Town": "TUAM",
-        "Phone": "+353 (0) 93 24287",
+        "Phone": "+353 (0)93 24287",
         "Email": "tuamlibrary@galway.ie",
         "Website": "http://www.galway.ie/en/Services/Library/Tuam",
         "WGS84Latitude": "53.514413",
