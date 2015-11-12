@@ -86,6 +86,7 @@ I was also thinking, at the bottom of each page it could have a google maps live
 
 
 **Creating an Admin using POST method**
+
 The admin will need to be able to update,delete and query the dataset using HTTP methods.
 
 ```json
@@ -107,8 +108,6 @@ You can receive a list of all the libraries in County Galway with the HTTP GET m
 
 By typing "all" without the brackets, after "../Library/ will return a list of all the libraries in County Galway.
 The GET method retrieves data from a web server by specifying parameters in the URL of the request.
-
-**Result:**
 ```json
 [
   {
