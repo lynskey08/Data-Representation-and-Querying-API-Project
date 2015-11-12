@@ -103,7 +103,7 @@ The admin will need to be able to update,delete and query the dataset using HTTP
 
 #####Get Method
 
-
+The HTTP GET request method is designed to retrieve information from the server.
 You can receive a list of all the libraries in County Galway with the HTTP GET method, by using the following URL: *http://galway.ie/en/Services/Library/(all)*
 
 By typing "all" without the brackets, after "../Library/ will return a list of all the libraries in County Galway.
@@ -168,6 +168,7 @@ such as (Tuam) like so:
 A POST request is used to send data to the server to be processed.For example, customer information, file upload, etc.
 
 **HTTP request using POST method by admin**
+
 POST *http://admin/password@galway.ie/en/Services/Library/Tuam/?Email=tuamlibrary@galway.ie*
 
 Before update:
