@@ -31,10 +31,13 @@ Field | Value | Field | Value
 ###Api Design
 
 > #####Main Page
+
 The Api will have a main page with a listing of all the library name's in County Galway in a dropdown button called Libraries. When the user clicks the name of a library, it will link you to the page with all the information of that library.
 
 > #####Single Library Page's Information
+
 These page's will consist of each libraries information such as the data below:
+
 > * Name (text)
 > * Address 1 (text)
 > * Address 2 (text)
@@ -44,17 +47,17 @@ These page's will consist of each libraries information such as the data below:
 > * Website (text)
 > * Latitude (number)
 > * Longitude (number)
-> * Opening Hours Monday
-> * Opening Hours Tuesday
-> * Opening Hours Wednesday
-> * Opening Hours Thursday
-> * Opening Hours Friday
-> * Opening Hours Saturday
-> * Opening Hours Sunday
+> * Opening Hours Monday (number)
+> * Opening Hours Tuesday (number)
+> * Opening Hours Wednesday (number)
+> * Opening Hours Thursday (number)
+> * Opening Hours Friday (number)
+> * Opening Hours Saturday (number)
+> * Opening Hours Sunday (number)
 
 I was also thinking, at the bottom of each page it could have a google maps live image with the latitude and longitude of each library in order to actually put the latitude and longitude to use as it's rarely used by the general user in todays world.
 
-> #####The following is an example entry of the dataset in JSON format.
+> #####The following is an example responce from the dataset in JSON format.
 ```json
 [
   {
@@ -80,12 +83,30 @@ I was also thinking, at the bottom of each page it could have a google maps live
 
 ###Api's Uniform Resource Locator's
 
-#####Receiving A List of County Galway Libraries
 
 
-You can receive a list of all the libraries in County Galway with the HTTP POST method, by using the following URL: *http://galway.ie/en/Services/Library/(list)*
+**Creating an Admin using POST method**
+The admin will need to be able to update,delete and query the dataset using HTTP methods.
 
-By typing "list" without the brackets, after "../Library/ will return a list of all the libraries in County Galway.
+```json
+{
+   "name" : "username",
+   "full-name" : "name",
+   "email" : "admin@example.ie",
+   "password" : {
+      "value" : "my_password"
+   },
+   "active" : true
+}
+```
+
+#####Get Method
+
+
+You can receive a list of all the libraries in County Galway with the HTTP GET method, by using the following URL: *http://galway.ie/en/Services/Library/(all)*
+
+By typing "all" without the brackets, after "../Library/ will return a list of all the libraries in County Galway.
+The GET method retrieves data from a web server by specifying parameters in the URL of the request.
 
 **Result:**
 ```json
@@ -113,3 +134,91 @@ By typing "list" without the brackets, after "../Library/ will return a list of 
   {....}
 ]
 ```
+
+To request a library by name you can use:
+*http://galway.ie/en/Services/Library/(name)
+Where you replace area with the name of a place 
+such as (Tuam) like so:
+*http://galway.ie/en/Services/Library/TUAM
+
+```json
+[
+    {
+        "Name": "TUAM LIBRARY",
+        "Address1": "HIGH STREET",
+        "Address2": "null",
+        "Town": "TUAM",
+        "Phone": "+353 (0) 93 24287",
+        "Email": "tuam@galwaylibrary.ie",
+        "Website": "http://www.galway.ie/en/Services/Library/Tuam",
+        "WGS84Latitude": "53.514413",
+        "WGS84Longitude": "-8.854173",
+        "Opening_Hours_Monday": "Closed",
+        "Opening_Hours_Tuesday": "10:30 to 13:00 and 14:00 to 17:00",
+        "Opening_Hours_Wednesday": "10:30 to 13:00 and 14:00 to 17:00",
+        "Opening_Hours_Thursday": "10:30 to 13:00 and 14:00 to 17:00",
+        "Opening_Hours_Friday": "10:30 to 13:00 and 14:00 to 17:00",
+        "Opening_Hours_Saturday": "10:30 to 13:00 and 14:00 to 17:00 (Closed on Bank Holiday Weekends)",
+        "Opening_Hours_Saturday": "Closed"
+    },
+]
+```
+
+#####POST Method
+
+A POST request is used to send data to the server to be processed.For example, customer information, file upload, etc.
+
+**HTTP request using POST method by admin**
+POST *http://admin/password@galway.ie/en/Services/Library/Tuam/?Email=tuamlibrary@galway.ie*
+
+Before update:
+```json
+[
+    {
+        "Name": "TUAM LIBRARY",
+        "Address1": "HIGH STREET",
+        "Address2": "null",
+        "Town": "TUAM",
+        "Phone": "+353 (0) 93 24287",
+        "Email": "tuam@galwaylibrary.ie",
+        "Website": "http://www.galway.ie/en/Services/Library/Tuam",
+        "WGS84Latitude": "53.514413",
+        "WGS84Longitude": "-8.854173",
+        "Opening_Hours_Monday": "Closed",
+        "Opening_Hours_Tuesday": "10:30 to 13:00 and 14:00 to 17:00",
+        "Opening_Hours_Wednesday": "10:30 to 13:00 and 14:00 to 17:00",
+        "Opening_Hours_Thursday": "10:30 to 13:00 and 14:00 to 17:00",
+        "Opening_Hours_Friday": "10:30 to 13:00 and 14:00 to 17:00",
+        "Opening_Hours_Saturday": "10:30 to 13:00 and 14:00 to 17:00 (Closed on Bank Holiday Weekends)",
+        "Opening_Hours_Saturday": "Closed"
+    },
+]
+```
+
+After update:
+```json
+[
+    {
+        "Name": "TUAM LIBRARY",
+        "Address1": "HIGH STREET",
+        "Address2": "null",
+        "Town": "TUAM",
+        "Phone": "+353 (0) 93 24287",
+        "Email": "tuamlibrary@galway.ie",
+        "Website": "http://www.galway.ie/en/Services/Library/Tuam",
+        "WGS84Latitude": "53.514413",
+        "WGS84Longitude": "-8.854173",
+        "Opening_Hours_Monday": "Closed",
+        "Opening_Hours_Tuesday": "10:30 to 13:00 and 14:00 to 17:00",
+        "Opening_Hours_Wednesday": "10:30 to 13:00 and 14:00 to 17:00",
+        "Opening_Hours_Thursday": "10:30 to 13:00 and 14:00 to 17:00",
+        "Opening_Hours_Friday": "10:30 to 13:00 and 14:00 to 17:00",
+        "Opening_Hours_Saturday": "10:30 to 13:00 and 14:00 to 17:00 (Closed on Bank Holiday Weekends)",
+        "Opening_Hours_Saturday": "Closed"
+    },
+]
+```
+
+
+
+
