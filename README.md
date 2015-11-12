@@ -32,7 +32,7 @@ Field | Value | Field | Value
 
 > #####Main Page
 
-The Api will have a main page with a listing of all the library name's in County Galway. When the user clicks the name of a library, it will link you to the page with all the information of that library.
+The Api will have a main page with a listing of all the library name's in County Galway in a dropdown Library button. When the user clicks the name of a library, it will link you to the page with all the information of that library.
 
 > #####Single Library Page's Information
 
@@ -57,14 +57,38 @@ These page's will consist of each libraries information such as the data below:
 
 I was also thinking, at the bottom of each page it could have a google maps live image with the latitude and longitude of each library in order to actually put the latitude and longitude to use as it's rarely used by the general user in todays world.
 
+> #####The following is an example entry of the dataset in JSON format.
+```json
+[
+  {
+        "Name": "WESTSIDE LIBRARY",
+        "Address1": "SEAMUS QUIRKE ROAD",
+        "Address2": "",
+        "Town": "GALWAY City",
+        "Phone": "+353 (0) 91 520616",
+        "Email": "westside@galwaylibrary.ie",
+        "Website": "http://www.galway.ie/en/Services/Library/",
+        "WGS84Latitude": "53.27739",
+        "WGS84Longitude": "-9.07447",
+        "Opening_Hours_Monday": "Closed",
+        "Opening_Hours_Tuesday": "11.00am to 8.00pm",
+        "Opening_Hours_Wednesday": "1.00am to 8.00pm",
+        "Opening_Hours_Thursday": "11.00am to 5.00pm",
+        "Opening_Hours_Friday": "11.00am to 5.00pm",
+        "Opening_Hours_Saturday": "11.00am to 1.00pm and 2.00pm to 5.00pm",
+        "Opening_Hours_Sunday": "Closed",
+    },
+]
+```
+
 ###Api's Uniform Resource Locator's
 
-#####Receiving A List County Galway Libraries
+#####Receiving A List of County Galway Libraries
 
 
 You can receive a list of all the libraries in County Galway with the HTTP POST method, by using the following URL: *http://galway.ie/en/Services/Library/(list)*
 
-By typing "list" after "../Library/ will return a list of all the libraries.
+By typing "list" without the brackets, after "../Library/ will return a list of all the libraries in County Galway.
 
 **Result:**
 ```json
