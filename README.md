@@ -32,7 +32,7 @@ Field | Value | Field | Value
 
 > #####Main Page
 
-The Api will have a main page with a listing of all the library name's in County Galway in a dropdown Library button. When the user clicks the name of a library, it will link you to the page with all the information of that library.
+The Api will have a main page with a listing of all the library name's in County Galway in a dropdown button called Libraries. When the user clicks the name of a library, it will link you to the page with all the information of that library.
 
 > #####Single Library Page's Information
 
