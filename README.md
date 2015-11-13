@@ -81,6 +81,16 @@ I was also thinking, at the bottom of each page it could have a google maps live
 ]
 ```
 
+##HTTP Request Methods  
+Method | Definitions
+--------|--------------------------------
+**POST** | Used for creating resources. 
+**GET** | Used for retrieving resources.
+**PUT** | Used for replacing resources or collections. For PUT requests with no body attribute, be sure to set the Content-Length header to zero.       
+**DELETE** | Used for deleting resources.  
+**HEAD** | Can be issued against any resource to get just the HTTP header info.
+**PATCH** | Used for updating resources with partial JSON data. For instance, an Issue resource has title and body attributes. A PATCH request may accept one or more of the attributes to update the resource. PATCH is a relatively new and uncommon HTTP verb, so resource endpoints also accept POST requests.
+
 ###Api's Uniform Resource Locator's
 
 
