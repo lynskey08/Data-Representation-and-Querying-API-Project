@@ -1,6 +1,6 @@
 #Data-Representation-and-Querying-Project-2015
 
-##Gareth Lynskey
+##Gareth Lynskey - G00312651
 
 ##County Galway Libraries
 
@@ -101,6 +101,62 @@ The admin will need to be able to update,delete and query the dataset using HTTP
 }
 ```
 
+#####POST Method
+
+A POST request is used to send data to the server to be processed.For example, customer information, file upload, etc.
+
+**HTTP request using POST method by admin**
+
+POST *http://admin/password@galway.ie/en/Services/Library/Tuam/?Email=tuamlibrary@galway.ie*
+
+Before update:
+```json
+[
+    {
+        "Name": "TUAM LIBRARY",
+        "Address1": "HIGH STREET",
+        "Address2": "null",
+        "Town": "TUAM",
+        "Phone": "+353 (0) 93 24287",
+        "Email": "tuam@galwaylibrary.ie",
+        "Website": "http://www.galway.ie/en/Services/Library/Tuam",
+        "WGS84Latitude": "53.514413",
+        "WGS84Longitude": "-8.854173",
+        "Opening_Hours_Monday": "Closed",
+        "Opening_Hours_Tuesday": "10:30 to 13:00 and 14:00 to 17:00",
+        "Opening_Hours_Wednesday": "10:30 to 13:00 and 14:00 to 17:00",
+        "Opening_Hours_Thursday": "10:30 to 13:00 and 14:00 to 17:00",
+        "Opening_Hours_Friday": "10:30 to 13:00 and 14:00 to 17:00",
+        "Opening_Hours_Saturday": "10:30 to 13:00 and 14:00 to 17:00 (Closed on Bank Holiday Weekends)",
+        "Opening_Hours_Saturday": "Closed"
+    },
+]
+```
+
+After update:
+```json
+[
+    {
+        "Name": "TUAM LIBRARY",
+        "Address1": "HIGH STREET",
+        "Address2": "null",
+        "Town": "TUAM",
+        "Phone": "+353 (0)93 24287",
+        "Email": "tuamlibrary@galway.ie",
+        "Website": "http://www.galway.ie/en/Services/Library/Tuam",
+        "WGS84Latitude": "53.514413",
+        "WGS84Longitude": "-8.854173",
+        "Opening_Hours_Monday": "Closed",
+        "Opening_Hours_Tuesday": "10:30 to 13:00 and 14:00 to 17:00",
+        "Opening_Hours_Wednesday": "10:30 to 13:00 and 14:00 to 17:00",
+        "Opening_Hours_Thursday": "10:30 to 13:00 and 14:00 to 17:00",
+        "Opening_Hours_Friday": "10:30 to 13:00 and 14:00 to 17:00",
+        "Opening_Hours_Saturday": "10:30 to 13:00 and 14:00 to 17:00 (Closed on Bank Holiday Weekends)",
+        "Opening_Hours_Saturday": "Closed"
+    },
+]
+```
+
 #####Get Method
 
 The HTTP GET request method is designed to retrieve information from the server.
@@ -163,61 +219,7 @@ such as (Tuam) like so:
 ]
 ```
 
-#####POST Method
 
-A POST request is used to send data to the server to be processed.For example, customer information, file upload, etc.
-
-**HTTP request using POST method by admin**
-
-POST *http://admin/password@galway.ie/en/Services/Library/Tuam/?Email=tuamlibrary@galway.ie*
-
-Before update:
-```json
-[
-    {
-        "Name": "TUAM LIBRARY",
-        "Address1": "HIGH STREET",
-        "Address2": "null",
-        "Town": "TUAM",
-        "Phone": "+353 (0) 93 24287",
-        "Email": "tuam@galwaylibrary.ie",
-        "Website": "http://www.galway.ie/en/Services/Library/Tuam",
-        "WGS84Latitude": "53.514413",
-        "WGS84Longitude": "-8.854173",
-        "Opening_Hours_Monday": "Closed",
-        "Opening_Hours_Tuesday": "10:30 to 13:00 and 14:00 to 17:00",
-        "Opening_Hours_Wednesday": "10:30 to 13:00 and 14:00 to 17:00",
-        "Opening_Hours_Thursday": "10:30 to 13:00 and 14:00 to 17:00",
-        "Opening_Hours_Friday": "10:30 to 13:00 and 14:00 to 17:00",
-        "Opening_Hours_Saturday": "10:30 to 13:00 and 14:00 to 17:00 (Closed on Bank Holiday Weekends)",
-        "Opening_Hours_Saturday": "Closed"
-    },
-]
-```
-
-After update:
-```json
-[
-    {
-        "Name": "TUAM LIBRARY",
-        "Address1": "HIGH STREET",
-        "Address2": "null",
-        "Town": "TUAM",
-        "Phone": "+353 (0)93 24287",
-        "Email": "tuamlibrary@galway.ie",
-        "Website": "http://www.galway.ie/en/Services/Library/Tuam",
-        "WGS84Latitude": "53.514413",
-        "WGS84Longitude": "-8.854173",
-        "Opening_Hours_Monday": "Closed",
-        "Opening_Hours_Tuesday": "10:30 to 13:00 and 14:00 to 17:00",
-        "Opening_Hours_Wednesday": "10:30 to 13:00 and 14:00 to 17:00",
-        "Opening_Hours_Thursday": "10:30 to 13:00 and 14:00 to 17:00",
-        "Opening_Hours_Friday": "10:30 to 13:00 and 14:00 to 17:00",
-        "Opening_Hours_Saturday": "10:30 to 13:00 and 14:00 to 17:00 (Closed on Bank Holiday Weekends)",
-        "Opening_Hours_Saturday": "Closed"
-    },
-]
-```
 
 
 
