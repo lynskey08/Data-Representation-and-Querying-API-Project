@@ -259,6 +259,10 @@ You can do this using the longitude and latitude
 with a GET method.
 *http://galway.ie/en/Services/Library/?closest-longitude-latitude
 
+This will return a list of libraries in County Galway
+starting with the closest.
+
+
 
 
 
