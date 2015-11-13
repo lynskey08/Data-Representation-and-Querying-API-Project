@@ -83,10 +83,9 @@ I was also thinking, at the bottom of each page it could have a google maps live
 ```
 
 > #####The following is an example responce from the dataset in XML format.
-```json
+```xml
 [
   {
-      <0>
         <Name>WESTSIDE LIBRARY</Name>
         <Address1>SEAMUS QUIRKE ROAD</Address1>
         <Address2></Address2>
@@ -103,7 +102,6 @@ I was also thinking, at the bottom of each page it could have a google maps live
         <Opening_Hours_Friday>11.00am to 5.00pm</Opening_Hours_Friday>
         <Opening_Hours_Saturday>11.00am to 1.00pm and 2.00pm to 5.00pm</Saturday>
         <Opening_Hours_Sunday>Closed</Sunday>
-      </0>
     },
 ]
 ```
