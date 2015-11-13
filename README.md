@@ -254,6 +254,11 @@ such as (Tuam) like so:
 ]
 ```
 
+Let say you want to find the library closest to you. 
+You can do this using the longitude and latitude
+with a GET method.
+*http://galway.ie/en/Services/Library/?closest-longitude-latitude
+
 
 
 
