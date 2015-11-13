@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <0>
+        <X>-9.07446057544246</X>
+        <Y>53.277400205441175</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>GALWAY COUNTY COUNCIL</Administrative_Authority>
+        <Name>WESTSIDE LIBRARY</Name>
+        <Address1>SEAMUS QUIRKE ROAD</Address1>
+        <Address2></Address2>
+        <Town>GALWAY City</Town>
+        <Postcode>000000</Postcode>
+        <County>COUNTY GALWAY</County>
+        <Services></Services>
+        <Phone>+353 (0) 91 520616</Phone>
+        <Email>westside@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/en/Services/Library/</Website>
+        <Image></Image>
+        <WGS84Latitude>53.27739</WGS84Latitude>
+        <WGS84Longitude>-9.07447</WGS84Longitude>
+        <Opening_Hours_Monday>Closed</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>11.00am to 8.00pm</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>1.00am to 8.00pm</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>11.00am to 5.00pm</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>11.00am to 5.00pm</Opening_Hours_Friday>
+        <Saturday>11.00am to 1.00pm and 2.00pm to 5.00pm</Saturday>
+        <OBJECTID>1</OBJECTID>
+    </0>
+    <1>
+        <X>-9.91787484857675</X>
+        <Y>53.394958499678431</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>GALWAY COUNTY COUNCIL</Administrative_Authority>
+        <Name>ROUNDSTONE PUBLIC LIBRARY</Name>
+        <Address1>ROUNDSTONE TOWN HALL</Address1>
+        <Address2></Address2>
+        <Town>ROUNDSTONE</Town>
+        <Postcode>000000</Postcode>
+        <County>COUNTY GALWAY</County>
+        <Services></Services>
+        <Phone>+353 (0) 83 3959860</Phone>
+        <Email>roundstone@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/en/Services/Library/</Website>
+        <Image></Image>
+        <WGS84Latitude>53.394944</WGS84Latitude>
+        <WGS84Longitude>-9.917876</WGS84Longitude>
+        <Opening_Hours_Monday>Closed</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>Closed</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>15:00 to 17:30</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>17:30 to 20:00</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>15:00 to 17:30</Opening_Hours_Friday>
+        <Saturday>11:00 to 13:30</Saturday>
+        <OBJECTID>2</OBJECTID>
+    </1>
+    <2>
+        <X>-8.748938890564629</X>
+        <Y>53.297636824817019</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>GALWAY COUNTY COUNCIL</Administrative_Authority>
+        <Name>ATHENRY PUBLIC LIBRARY</Name>
+        <Address1>SWAN GATE</Address1>
+        <Address2></Address2>
+        <Town>ATHENRY</Town>
+        <Postcode>000000</Postcode>
+        <County>COUNTY GALWAY</County>
+        <Services></Services>
+        <Phone>+353 (0) 91 845592</Phone>
+        <Email>athenry@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/en/Services/Library/</Website>
+        <Image></Image>
+        <WGS84Latitude>53.297628</WGS84Latitude>
+        <WGS84Longitude>-8.748951</WGS84Longitude>
+        <Opening_Hours_Monday>Closed</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>15:00 to 18:00 and 19:00 to 20:00</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>11:00 to 13:00</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>16:00 to 19:00</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>11:00 to 13:00 and 14:00 to 16:00</Opening_Hours_Friday>
+        <Saturday>11:00 to 13:00</Saturday>
+        <OBJECTID>3</OBJECTID>
+    </2>
+    <3>
+        <X>-8.400027283446811</X>
+        <Y>53.051725836829952</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>GALWAY COUNTY COUNCIL</Administrative_Authority>
+        <Name>WOODFORD PUBLIC LIBRARY</Name>
+        <Address1>WOODFORD</Address1>
+        <Address2></Address2>
+        <Town>WOODFORD</Town>
+        <Postcode>000000</Postcode>
+        <County>COUNTY GALWAY</County>
+        <Services></Services>
+        <Phone>+353 (0) 90 9749200</Phone>
+        <Email>woodford@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/en/Services/Library/</Website>
+        <Image></Image>
+        <WGS84Latitude>53.05172</WGS84Latitude>
+        <WGS84Longitude>-8.40004</WGS84Longitude>
+        <Opening_Hours_Monday>Closed</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>14:30 to 16:30</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>14:30 to 16:30</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>18:00 to 20:00</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>11:00 to 13:00</Opening_Hours_Friday>
+        <Saturday>10:00 to 12:00</Saturday>
+        <OBJECTID>4</OBJECTID>
+    </3>
+    <4>
+        <X>-9.668380290515382</X>
+        <Y>53.121237417786745</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>GALWAY COUNTY COUNCIL</Administrative_Authority>
+        <Name>Leabharlann Cill Rónáin</Name>
+        <Address1>IONAD FIONTAIR CHOLM Ó HIARNÁIN</Address1>
+        <Address2>LOWER KILRONAN</Address2>
+        <Town>INIS MÓR</Town>
+        <Postcode>000000</Postcode>
+        <County>COUNTY GALWAY</County>
+        <Services></Services>
+        <Phone>+353 (0) 99 20937</Phone>
+        <Email>inismor@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/ga/Seirbhisi/AnLeabharlann/</Website>
+        <Image></Image>
+        <WGS84Latitude>53.121226</WGS84Latitude>
+        <WGS84Longitude>-9.668384</WGS84Longitude>
+        <Opening_Hours_Monday>Closed</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>14:00 to 16:00</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>11:00 to 13:00</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>18:00 to 20:00</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>14:00 to 16:00</Opening_Hours_Friday>
+        <Saturday>12:00 to 14:00</Saturday>
+        <OBJECTID>5</OBJECTID>
+    </4>
+    <5>
+        <X>-8.854160713024363</X>
+        <Y>53.514424483755874</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>GALWAY COUNTY COUNCIL</Administrative_Authority>
+        <Name>TUAM LIBRARY</Name>
+        <Address1>HIGH STREET</Address1>
+        <Address2></Address2>
+        <Town>TUAM</Town>
+        <Postcode>000000</Postcode>
+        <County>COUNTY GALWAY</County>
+        <Services></Services>
+        <Phone>+353 (0) 93 24287</Phone>
+        <Email>tuam@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/en/Services/Library/</Website>
+        <Image></Image>
+        <WGS84Latitude>53.514413</WGS84Latitude>
+        <WGS84Longitude>-8.854173</WGS84Longitude>
+        <Opening_Hours_Monday>Closed</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>10:30 to 13:00 and 14:00 to 17:00</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>10:30 to 13:00 and 14:00 to 17:00</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>10:30 to 13:00 and 14:00 to 17:00</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>10:30 to 13:00 and 14:00 to 17:00</Opening_Hours_Friday>
+        <Saturday>10:30 to 13:00 and 14:00 to 17:00 (Closed on Bank Holiday Weekends)</Saturday>
+        <OBJECTID>6</OBJECTID>
+    </5>
+    <6>
+        <X>-9.691985838137841</X>
+        <Y>53.594122869393622</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>GALWAY COUNTY COUNCIL</Administrative_Authority>
+        <Name>LEENANE PUBLIC LIBRARY</Name>
+        <Address1>LEENANE COMMUNITY HALL</Address1>
+        <Address2>DERRAHEEDA</Address2>
+        <Town>LEENANE</Town>
+        <Postcode>000000</Postcode>
+        <County>COUNTY GALWAY</County>
+        <Services></Services>
+        <Phone>+353 (0) 95 42920</Phone>
+        <Email>leenane@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/en/Services/Library/</Website>
+        <Image></Image>
+        <WGS84Latitude>53.594108</WGS84Latitude>
+        <WGS84Longitude>-9.69199</WGS84Longitude>
+        <Opening_Hours_Monday>Closed</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>18.00 – 20.00</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>15.00 – 17.00</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>11.00 – 13.00</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>12.00 – 14.00</Opening_Hours_Friday>
+        <Saturday>11.00 – 13.00</Saturday>
+        <OBJECTID>7</OBJECTID>
+    </6>
+    <7>
+        <X>-9.002184575683327</X>
+        <Y>53.282740990239205</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>GALWAY COUNTY COUNCIL</Administrative_Authority>
+        <Name>BALLYBANE PUBLIC LIBRARY</Name>
+        <Address1>BALLYBANE NEIGHBOURHOOD VILLAGE</Address1>
+        <Address2>CASTLEPARK ROAD</Address2>
+        <Town>GALWAY CITY</Town>
+        <Postcode>000000</Postcode>
+        <County>COUNTY GALWAY</County>
+        <Services></Services>
+        <Phone>+353 (0) 91 380590</Phone>
+        <Email>ballybane@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/en/Services/Library/</Website>
+        <Image></Image>
+        <WGS84Latitude>53.282731</WGS84Latitude>
+        <WGS84Longitude>-9.002194</WGS84Longitude>
+        <Opening_Hours_Monday>Closed</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>11:00 to 13:00 and 14:00 to 17:00</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>11:00 to 13:00 and 14:00 to 17:00</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>11:00 to 13:00 and 14:00 to 17:00</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>11:00 to 13:00 and 14:00 to 17:00</Opening_Hours_Friday>
+        <Saturday>11:00 to 13:00 and 14:00 to 17:00</Saturday>
+        <OBJECTID>8</OBJECTID>
+    </7>
+    <8>
+        <X>-9.107917820376212</X>
+        <Y>53.469585174125633</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>GALWAY COUNTY COUNCIL</Administrative_Authority>
+        <Name>HEADFORD PUBLIC LIBRARY</Name>
+        <Address1>SAINT FARNANS HALL</Address1>
+        <Address2>CHURCH ROAD</Address2>
+        <Town>HEADFORD</Town>
+        <Postcode>000000</Postcode>
+        <County>COUNTY GALWAY</County>
+        <Services></Services>
+        <Phone>+353 (0) 93 36406</Phone>
+        <Email>headford@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/en/Services/Library/</Website>
+        <Image></Image>
+        <WGS84Latitude>53.469573</WGS84Latitude>
+        <WGS84Longitude>-9.107928</WGS84Longitude>
+        <Opening_Hours_Monday>Closed</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>14.30 – 17.00 & 18.00 – 20.00</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>11.30 – 13.30</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>14.30 – 19.00</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>11.30 – 1.30 & 2.30 – 5.00</Opening_Hours_Friday>
+        <Saturday>11.30 – 13.30 & 14.30 – 16.00</Saturday>
+        <OBJECTID>9</OBJECTID>
+    </8>
+    <9>
+        <X>-8.130824100054555</X>
+        <Y>53.201693462468754</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>GALWAY COUNTY COUNCIL</Administrative_Authority>
+        <Name>EYRECOURT PUBLIC LIBRARY</Name>
+        <Address1>CHURCH LANE</Address1>
+        <Address2></Address2>
+        <Town>EYRECOURT</Town>
+        <Postcode>000000</Postcode>
+        <County>COUNTY GALWAY</County>
+        <Services></Services>
+        <Phone>+353 (0) 90 9675056</Phone>
+        <Email>eyrecourt@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/en/Services/Library/</Website>
+        <Image></Image>
+        <WGS84Latitude>53.201687</WGS84Latitude>
+        <WGS84Longitude>-8.130839</WGS84Longitude>
+        <Opening_Hours_Monday>Closed</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>14:00 to 16:00</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>18:00 to 20:00</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>14:00 to 16:00</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>11:00 to 13:00</Opening_Hours_Friday>
+        <Saturday>11:00 to 13:00</Saturday>
+        <OBJECTID>10</OBJECTID>
+    </9>
+    <10>
+        <X>-8.221234066234722</X>
+        <Y>53.089934729200522</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>GALWAY COUNTY COUNCIL</Administrative_Authority>
+        <Name>PORTUMNA LIBRARY</Name>
+        <Address1>CASTLE AVENUE</Address1>
+        <Address2></Address2>
+        <Town>PORTUMNA</Town>
+        <Postcode>000000</Postcode>
+        <County>COUNTY GALWAY</County>
+        <Services></Services>
+        <Phone>+353 90 9741261</Phone>
+        <Email>portumna@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/en/Services/Library/</Website>
+        <Image></Image>
+        <WGS84Latitude>53.089929</WGS84Latitude>
+        <WGS84Longitude>-8.221248</WGS84Longitude>
+        <Opening_Hours_Monday>14:00 to 17:30 and 18:30 to 20:30</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>9:30 to 13:00 and 14:00 to 17:30</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>14:00 to 17:30 and 18:30 to 20:30</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>9:30 to 13:00 and 14:00 to 17:30</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>9:30 to 13:00 and 14:00 to 17:30 and 18:30 to 20:30</Opening_Hours_Friday>
+        <Saturday>11:00 to 13:00 and 14:00 to 17:30</Saturday>
+        <OBJECTID>11</OBJECTID>
+    </10>
+    <11>
+        <X>-8.326220094304196</X>
+        <Y>53.523420746903682</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>GALWAY COUNTY COUNCIL</Administrative_Authority>
+        <Name>BALLYGAR LIBRARY</Name>
+        <Address1>MARKET SQUARE</Address1>
+        <Address2></Address2>
+        <Town>BALLYGAR</Town>
+        <Postcode>000000</Postcode>
+        <County>COUNTY GALWAY</County>
+        <Services></Services>
+        <Phone>+353 (0) 90 6624919</Phone>
+        <Email>ballygar@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/en/Services/Library/</Website>
+        <Image></Image>
+        <WGS84Latitude>53.523411</WGS84Latitude>
+        <WGS84Longitude>-8.326236</WGS84Longitude>
+        <Opening_Hours_Monday>Closed</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>11:00 to 13:00</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>14:00 to 16:00</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>16:00 to 18:00</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>14:00 to 16:00</Opening_Hours_Friday>
+        <Saturday>11:00 to 13:00</Saturday>
+        <OBJECTID>12</OBJECTID>
+    </11>
+    <12>
+        <X>-8.744370301783485</X>
+        <Y>53.617615915145798</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>GALWAY COUNTY COUNCIL</Administrative_Authority>
+        <Name>DUNMORE PUBLIC LIBRARY</Name>
+        <Address1>HIGH STREET</Address1>
+        <Address2></Address2>
+        <Town>DUNMORE</Town>
+        <Postcode>000000</Postcode>
+        <County>COUNTY GALWAY</County>
+        <Services></Services>
+        <Phone>+353 (0) 93 38923</Phone>
+        <Email>dunmore@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/en/Services/Library/</Website>
+        <Image></Image>
+        <WGS84Latitude>53.617604</WGS84Latitude>
+        <WGS84Longitude>-8.744384</WGS84Longitude>
+        <Opening_Hours_Monday>Closed</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>14:30 to 17:00 & 18:00 to 20:00</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>11:30 to 13:30</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>14:30 to 17:00 & 18:00 to 20:00</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>11:30 to 13:30 & 14.30 to 17:00</Opening_Hours_Friday>
+        <Saturday>11:30 to 13:30 & 14:30 to 17:00</Saturday>
+        <OBJECTID>13</OBJECTID>
+    </12>
+    <13>
+        <X>-10.02045095089909</X>
+        <Y>53.487453074278875</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>GALWAY COUNTY COUNCIL</Administrative_Authority>
+        <Name>CLIFDEN PUBLIC LIBRARY</Name>
+        <Address1>MARKET STREET</Address1>
+        <Address2></Address2>
+        <Town>CLIFDEN</Town>
+        <Postcode>000000</Postcode>
+        <County>COUNTY GALWAY</County>
+        <Services></Services>
+        <Phone>+353 (0) 95 21092</Phone>
+        <Email>clifden@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/en/Services/Library/</Website>
+        <Image></Image>
+        <WGS84Latitude>53.487437</WGS84Latitude>
+        <WGS84Longitude>-10.020451</WGS84Longitude>
+        <Opening_Hours_Monday>14:30 to 18:00 and 18:30 to 20:30</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>10:30 to 13:00 and 14:30 to 18:00</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>14:30 to 18:00 and 18:30 to 20:30</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>10:30 to 13:00 and 14:30 to 18:00</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>10:30 to 13:00 and 14:30 to 18:00</Opening_Hours_Friday>
+        <Saturday>10:30 to 13:00 and 14:30 to 18:00</Saturday>
+        <OBJECTID>14</OBJECTID>
+    </13>
+    <14>
+        <X>-9.303819793255522</X>
+        <Y>53.244051251994819</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>GALWAY COUNTY COUNCIL</Administrative_Authority>
+        <Name>Leabharlann An Spidéal</Name>
+        <Address1>SPIDDAL WEST</Address1>
+        <Address2></Address2>
+        <Town>SPIDDAL</Town>
+        <Postcode>000000</Postcode>
+        <County>COUNTY GALWAY</County>
+        <Services></Services>
+        <Phone>+353 (0) 91 504028</Phone>
+        <Email>anspideil@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/en/Services/Library/</Website>
+        <Image></Image>
+        <WGS84Latitude>53.244041</WGS84Latitude>
+        <WGS84Longitude>-9.303827</WGS84Longitude>
+        <Opening_Hours_Monday>Closed</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>14.30 to 17:00</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>10:00 to 12:00 and 19:00 to 21:00</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>14:30 to 17:00</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>10:00 to 12:00 and 19:00 to 21:00</Opening_Hours_Friday>
+        <Saturday>10:00 to 12:00 and 15:00 to 17:00</Saturday>
+        <OBJECTID>15</OBJECTID>
+    </14>
+    <15>
+        <X>-8.226165258394921</X>
+        <Y>53.330575886297176</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>GALWAY COUNTY COUNCIL</Administrative_Authority>
+        <Name>BALLINASLOE PUBLIC LIBRARY</Name>
+        <Address1>MCNEVIN AVENUE</Address1>
+        <Address2></Address2>
+        <Town>BALLINASLOE</Town>
+        <Postcode>000000</Postcode>
+        <County>COUNTY GALWAY</County>
+        <Services></Services>
+        <Phone>+353 (0) 90 9643464</Phone>
+        <Email>ballinasloe@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/en/Services/Library/</Website>
+        <Image></Image>
+        <WGS84Latitude>53.330568</WGS84Latitude>
+        <WGS84Longitude>-8.226181</WGS84Longitude>
+        <Opening_Hours_Monday>Closed</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>11:00 to 13:00 and 14:00 to 20:00</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>11:00 to 13:00 and 14:00 to 17:00</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>11:00 to 13:00 and 14:00 to 20:00</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>11:00 to 13:00 and 14:00 to 17:00</Opening_Hours_Friday>
+        <Saturday>11:00 to 13:00 and 14:00 to 17:00</Saturday>
+        <OBJECTID>16</OBJECTID>
+    </15>
+    <16>
+        <X>-8.56596240969532</X>
+        <Y>53.487909546516875</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>GALWAY COUNTY COUNCIL</Administrative_Authority>
+        <Name>MOYLOUGH PUBLIC LIBRARY</Name>
+        <Address1>MOYLOUGH COMMUNITY CENTRE</Address1>
+        <Address2></Address2>
+        <Town>MOYLOUGH</Town>
+        <Postcode>000000</Postcode>
+        <County>COUNTY GALWAY</County>
+        <Services></Services>
+        <Phone>+353 (0) 90 9679072</Phone>
+        <Email>moylough@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/en/Services/Library/</Website>
+        <Image></Image>
+        <WGS84Latitude>53.487899</WGS84Latitude>
+        <WGS84Longitude>-8.565977</WGS84Longitude>
+        <Opening_Hours_Monday>Closed</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>15:00 to 17:00</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>15:00 to 17:00</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>17:00 to 19:00</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>15:00 to 17:00</Opening_Hours_Friday>
+        <Saturday>11:00 to 13:00</Saturday>
+        <OBJECTID>17</OBJECTID>
+    </16>
+    <17>
+        <X>-8.566908288502823</X>
+        <Y>53.198194969415653</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>GALWAY COUNTY COUNCIL</Administrative_Authority>
+        <Name>LOUGHREA PUBLIC LIBRARY</Name>
+        <Address1>CHURCH STREET</Address1>
+        <Address2></Address2>
+        <Town>LOUGHREA</Town>
+        <Postcode>000000</Postcode>
+        <County>COUNTY GALWAY</County>
+        <Services></Services>
+        <Phone>+353 (0) 91 847220</Phone>
+        <Email>loughrea@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/en/Services/Library/</Website>
+        <Image></Image>
+        <WGS84Latitude>53.198187</WGS84Latitude>
+        <WGS84Longitude>-8.566921</WGS84Longitude>
+        <Opening_Hours_Monday>Closed</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>10:30 to 13:00 and 14:00 to 19:00</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>10:30 to 13:00 and 14:00 to 18:00</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>10:30 to 13:00 and 14:00 to 18:00</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>10:30 to 13:00 and 14:00 to 18:00</Opening_Hours_Friday>
+        <Saturday>10:30 to 13:00 and 14:00 to 17:00</Saturday>
+        <OBJECTID>18</OBJECTID>
+    </17>
+    <18>
+        <X>-8.929424141641853</X>
+        <Y>53.267484630081135</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>GALWAY COUNTY COUNCIL</Administrative_Authority>
+        <Name>ORANMORE PUBLIC LIBRARY</Name>
+        <Address1>MAIN STREET</Address1>
+        <Address2></Address2>
+        <Town>ORANMORE</Town>
+        <Postcode>000000</Postcode>
+        <County>COUNTY GALWAY</County>
+        <Services></Services>
+        <Phone>+353 (0) 91 792117</Phone>
+        <Email>oranmore@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/en/Services/Library/</Website>
+        <Image></Image>
+        <WGS84Latitude>53.267475</WGS84Latitude>
+        <WGS84Longitude>-8.929434</WGS84Longitude>
+        <Opening_Hours_Monday>Closed</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>11:00 to 13:00 & 14:00 to 17:00</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>1:00 to 13:00 & 14:00 to 20:00</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>11:00 to 13:00 & 14:00 to 20:00</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>11:00 to 13:00 & 14:00 to 17:00</Opening_Hours_Friday>
+        <Saturday>11:00 to 13:00 & 14:00 to 17:00</Saturday>
+        <OBJECTID>19</OBJECTID>
+    </18>
+    <19>
+        <X>-9.601874062006949</X>
+        <Y>53.26291938755994</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>GALWAY COUNTY COUNCIL</Administrative_Authority>
+        <Name>Leabharlann An Cheathrú</Name>
+        <Address1>CARRAROE SOUTH</Address1>
+        <Address2></Address2>
+        <Town>An Cheathrú Rua</Town>
+        <Postcode>000000</Postcode>
+        <County>COUNTY GALWAY</County>
+        <Services></Services>
+        <Phone>+353 (0) 91 595733</Phone>
+        <Email>anceathrurua@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/ga/Seirbhisi/AnLeabharlann/</Website>
+        <Image></Image>
+        <WGS84Latitude>53.262907</WGS84Latitude>
+        <WGS84Longitude>-9.601878</WGS84Longitude>
+        <Opening_Hours_Monday>Closed</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>10:30 to 13:00 and 14:00 to 20:00</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>10:30 to 13:00 and 14:00 to 17:00</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>10:30 to 13:00 and 14:00 to 20:00</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>10:30 to 13:00 and 14:00 to 17:00</Opening_Hours_Friday>
+        <Saturday>10:30 to 13:00 and 14:00 to 17:00</Saturday>
+        <OBJECTID>20</OBJECTID>
+    </19>
+    <20>
+        <X>-8.819942755861504</X>
+        <Y>53.065200510165212</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>GALWAY COUNTY COUNCIL</Administrative_Authority>
+        <Name>GORT PUBLIC LIBRARY</Name>
+        <Address1>CHURCH ROAD</Address1>
+        <Address2></Address2>
+        <Town>GORT</Town>
+        <Postcode>000000</Postcode>
+        <County>COUNTY GALWAY</County>
+        <Services></Services>
+        <Phone>+353 (0) 91 631224</Phone>
+        <Email>gort@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/en/Services/Library/</Website>
+        <Image></Image>
+        <WGS84Latitude>53.065193</WGS84Latitude>
+        <WGS84Longitude>-8.819953</WGS84Longitude>
+        <Opening_Hours_Monday>Closed</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>14:00 to 17:00 and 18:00 to 20:00</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>14:00 to 17:00</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>14:00 to 17:00</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>11:30 to 13:00 and 14:00 to 17:00</Opening_Hours_Friday>
+        <Saturday>11:30 to 13:00 and 14:00 to 17:00</Saturday>
+        <OBJECTID>21</OBJECTID>
+    </20>
+    <21>
+        <X>-9.325230216486348</X>
+        <Y>53.427476446177494</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>GALWAY COUNTY COUNCIL</Administrative_Authority>
+        <Name>OUGHTERARD PUBLIC LIBRARY</Name>
+        <Address1>THE COURTHOUSE</Address1>
+        <Address2>MAIN STREET</Address2>
+        <Town>OUGHTERARD</Town>
+        <Postcode>000000</Postcode>
+        <County>COUNTY GALWAY</County>
+        <Services></Services>
+        <Phone>+353 (0) 91 557002</Phone>
+        <Email>oughterard@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/en/Services/Library/</Website>
+        <Image></Image>
+        <WGS84Latitude>53.427464</WGS84Latitude>
+        <WGS84Longitude>-9.325238</WGS84Longitude>
+        <Opening_Hours_Monday>Closed</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>14:00 to 16:00 and 18:00 to 20:00</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>11:00 to 14:00</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>14:00 to 16:00 and 18:00 to 20:00</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>14:00 to 17:00</Opening_Hours_Friday>
+        <Saturday>11:00 to 13:00</Saturday>
+        <OBJECTID>22</OBJECTID>
+    </21>
+    <22>
+        <X>-8.55782086510192</X>
+        <Y>53.60600394741526</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>GALWAY COUNTY COUNCIL</Administrative_Authority>
+        <Name>Glenamaddy Library</Name>
+        <Address1>SAINT BRIGIDS HALL</Address1>
+        <Address2>Main Street</Address2>
+        <Town>Glenamaddy</Town>
+        <Postcode>000000</Postcode>
+        <County>County Galway</County>
+        <Services></Services>
+        <Phone>+353 (0) 94 9659734</Phone>
+        <Email>glenamaddy@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/en/Services/Library/</Website>
+        <Image></Image>
+        <WGS84Latitude>53.605993</WGS84Latitude>
+        <WGS84Longitude>-8.557836</WGS84Longitude>
+        <Opening_Hours_Monday>Closed</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>14:30 to 16:30</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>14:30 to 16:30</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>17:00 to 19:00</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>14:30 to 16:30</Opening_Hours_Friday>
+        <Saturday>11:00 to 13:00</Saturday>
+        <OBJECTID>23</OBJECTID>
+    </22>
+    <23>
+        <X>-10.212832875367752</X>
+        <Y>53.614255869018351</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>GALWAY COUNTY COUNCIL</Administrative_Authority>
+        <Name>Inishbofin Library</Name>
+        <Address1>INISHBOFIN COMMUNITY CENTRE</Address1>
+        <Address2>Middlequarter</Address2>
+        <Town>Inishbofin</Town>
+        <Postcode>000000</Postcode>
+        <County>County Galway</County>
+        <Services></Services>
+        <Phone>+353 (0) 95 45891</Phone>
+        <Email>inishbofin@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/en/Services/Library/</Website>
+        <Image></Image>
+        <WGS84Latitude>53.614238</WGS84Latitude>
+        <WGS84Longitude>-10.21283</WGS84Longitude>
+        <Opening_Hours_Monday>Closed</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>16:00 to 18:00</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>Closed</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>16:00 to 18:00</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>Closed</Opening_Hours_Friday>
+        <Saturday>14:00 to 16:00</Saturday>
+        <OBJECTID>24</OBJECTID>
+    </23>
+    <24>
+        <X>-9.589057779847483</X>
+        <Y>53.087290020148131</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>GALWAY COUNTY COUNCIL</Administrative_Authority>
+        <Name>Leabharlann Inis Meáin</Name>
+        <Address1>CARROWNTEMPLE</Address1>
+        <Address2>INIS MEÁIN</Address2>
+        <Town>Baile an Teampaill</Town>
+        <Postcode>000000</Postcode>
+        <County>County Galway</County>
+        <Services></Services>
+        <Phone>+353 (0) 99 73126</Phone>
+        <Email>inismeain@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/en/Services/Library/</Website>
+        <Image></Image>
+        <WGS84Latitude>53.08728</WGS84Latitude>
+        <WGS84Longitude>-9.589062</WGS84Longitude>
+        <Opening_Hours_Monday>Closed</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>14:00 to 16:00</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>Closed</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>19:00 to 21:00</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>Closed</Opening_Hours_Friday>
+        <Saturday>14:00 to 16:00</Saturday>
+        <OBJECTID>25</OBJECTID>
+    </24>
+    <25>
+        <X>-9.514641451622447</X>
+        <Y>53.064502891195936</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>GALWAY COUNTY COUNCIL</Administrative_Authority>
+        <Name>Leabharlann Inis Oírr</Name>
+        <Address1>COMHAR CAOMHAN TEORANTA</Address1>
+        <Address2>An Trá</Address2>
+        <Town>Inis Oírr</Town>
+        <Postcode>000000</Postcode>
+        <County>County Galway</County>
+        <Services></Services>
+        <Phone>+353 (0) 99 75154</Phone>
+        <Email>inisoirr@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/en/Services/Library/</Website>
+        <Image></Image>
+        <WGS84Latitude>53.064493</WGS84Latitude>
+        <WGS84Longitude>-9.514646</WGS84Longitude>
+        <Opening_Hours_Monday>Closed</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>14:30 to 16:30</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>Closed</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>14:30 to 16:30</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>Closed</Opening_Hours_Friday>
+        <Saturday>12:00 to 14:00</Saturday>
+        <OBJECTID>26</OBJECTID>
+    </25>
+    <26>
+        <X>-8.288751031726317</X>
+        <Y>53.164690823426838</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>GALWAY COUNTY COUNCIL</Administrative_Authority>
+        <Name>Killimor Public Library</Name>
+        <Address1>Main Street</Address1>
+        <Address2></Address2>
+        <Town>Killimor</Town>
+        <Postcode>000000</Postcode>
+        <County>County Galway</County>
+        <Services></Services>
+        <Phone>+353 (0) 90 9676062</Phone>
+        <Email>killimor@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/en/Services/Library/</Website>
+        <Image></Image>
+        <WGS84Latitude>53.164684</WGS84Latitude>
+        <WGS84Longitude>-8.288765</WGS84Longitude>
+        <Opening_Hours_Monday>Closed</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>14:00 to 16:00</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>17:00 to 19:00</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>14:00 to 16:00</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>10:00 to 12:00</Opening_Hours_Friday>
+        <Saturday>16:00 to 18:00</Saturday>
+        <OBJECTID>27</OBJECTID>
+    </26>
+    <27>
+        <X>-9.947595989087361</X>
+        <Y>53.552656446280302</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>GALWAY COUNTY COUNCIL</Administrative_Authority>
+        <Name>Letterfrack Library</Name>
+        <Address1>Furniture College</Address1>
+        <Address2></Address2>
+        <Town>Letterfrack</Town>
+        <Postcode>000000</Postcode>
+        <County>County Galway</County>
+        <Services></Services>
+        <Phone>+353 (0) 91 742666</Phone>
+        <Email>letterfrack@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/en/Services/Library/</Website>
+        <Image></Image>
+        <WGS84Latitude>53.55264</WGS84Latitude>
+        <WGS84Longitude>-9.947597</WGS84Longitude>
+        <Opening_Hours_Monday>Closed</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>17:30 to 19:30</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>14:00 to 16:00</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>17:30 to 19:30</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>14:00 to 16:00</Opening_Hours_Friday>
+        <Saturday>11:00 to 13:00</Saturday>
+        <OBJECTID>28</OBJECTID>
+    </27>
+    <28>
+        <X>-9.052011015315966</X>
+        <Y>53.271532932942051</Y>
+        <Council_ID>GY</Council_ID>
+        <Administrative_Authority>Galway County Council</Administrative_Authority>
+        <Name>Galway City Library</Name>
+        <Address1>HYNES BUILDINGS</Address1>
+        <Address2>HYNES BUILDINGS</Address2>
+        <Town>Galway City</Town>
+        <Postcode>000000</Postcode>
+        <County>County Galway</County>
+        <Services></Services>
+        <Phone>+353 (0) 91 561666</Phone>
+        <Email>info@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/en/Services/Library/</Website>
+        <Image></Image>
+        <WGS84Latitude>0</WGS84Latitude>
+        <WGS84Longitude>0</WGS84Longitude>
+        <Opening_Hours_Monday>2.00pm to 5.00pm</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>11.00am to 8.00pm</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>11.00am to 8.00pm</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>11.00am to 8.00pm</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>11.00am to 5.00pm</Opening_Hours_Friday>
+        <Saturday>11.00am to 5.00pm</Saturday>
+        <OBJECTID>29</OBJECTID>
+    </28>
+    <29>
+        <X></X>
+    </29>
+</root>
