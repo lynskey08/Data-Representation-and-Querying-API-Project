@@ -37,23 +37,24 @@ The Api will have a main page with a listing of all the library name's in County
 > #####Single Library Page's Information
 
 These page's will consist of each libraries information such as the data below:
-
-> * Name (text)
-> * Address 1 (text)
-> * Address 2 (text)
-> * Town (text)
-> * Phone (number)
-> * Email (text)
-> * Website (text)
-> * Latitude (number)
-> * Longitude (number)
-> * Opening Hours Monday (number)
-> * Opening Hours Tuesday (number)
-> * Opening Hours Wednesday (number)
-> * Opening Hours Thursday (number)
-> * Opening Hours Friday (number)
-> * Opening Hours Saturday (number)
-> * Opening Hours Sunday (number)
+```markdown
+Name (text)
+Address 1 (text)
+Address 2 (text)
+Town (text)
+Phone (number)
+Email (text)
+Website (text)
+Latitude (number)
+Longitude (number)
+Opening Hours Monday (number)
+Opening Hours Tuesday (number)
+Opening Hours Wednesday (number)
+Opening Hours Thursday (number)
+Opening Hours Friday (number)
+Opening Hours Saturday (number)
+Opening Hours Sunday (number)
+```
 
 I was also thinking, at the bottom of each page it could have a google maps live image with the latitude and longitude of each library in order to actually put the latitude and longitude to use as it's rarely used by the general user in todays world.
 
@@ -77,6 +78,32 @@ I was also thinking, at the bottom of each page it could have a google maps live
         "Opening_Hours_Friday": "11.00am to 5.00pm",
         "Opening_Hours_Saturday": "11.00am to 1.00pm and 2.00pm to 5.00pm",
         "Opening_Hours_Sunday": "Closed",
+    },
+]
+```
+
+> #####The following is an example responce from the dataset in XML format.
+```json
+[
+  {
+      <0>
+        <Name>WESTSIDE LIBRARY</Name>
+        <Address1>SEAMUS QUIRKE ROAD</Address1>
+        <Address2></Address2>
+        <Town>GALWAY City</Town>
+        <Phone>+353 (0) 91 520616</Phone>
+        <Email>westside@galwaylibrary.ie</Email>
+        <Website>http://www.galway.ie/en/Services/Library/</Website>
+        <WGS84Latitude>53.27739</WGS84Latitude>
+        <WGS84Longitude>-9.07447</WGS84Longitude>
+        <Opening_Hours_Monday>Closed</Opening_Hours_Monday>
+        <Opening_Hours_Tuesday>11.00am to 8.00pm</Opening_Hours_Tuesday>
+        <Opening_Hours_Wednesday>1.00am to 8.00pm</Opening_Hours_Wednesday>
+        <Opening_Hours_Thursday>11.00am to 5.00pm</Opening_Hours_Thursday>
+        <Opening_Hours_Friday>11.00am to 5.00pm</Opening_Hours_Friday>
+        <Opening_Hours_Saturday>11.00am to 1.00pm and 2.00pm to 5.00pm</Saturday>
+        <Opening_Hours_Sunday>Closed</Sunday>
+      </0>
     },
 ]
 ```
