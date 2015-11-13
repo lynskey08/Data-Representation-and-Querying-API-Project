@@ -262,7 +262,12 @@ with a GET method.
 This will return a list of libraries in County Galway
 starting with the closest.
 
+###Conclusion
 
+From the dataset supplied, other URLs could be added using GET and POST methods 
+to update a current library or even create a new library. Due the the nature of the dataset, 
+users may not remove/delete libraries, simply because it wouldn't make sense. The URLs above 
+cover the main requirements when accessing the dataset.
 
 
 
